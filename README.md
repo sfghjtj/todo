@@ -1,1 +1,1 @@
-# todo
+# ./gradlew jettyRun
